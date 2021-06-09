@@ -25,3 +25,10 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
+
+Telas
+![Tela 1](https://github.com/leoeek/test-nuxt/blob/master/image/1.png?raw=true)
+
+![Tela 2](https://github.com/leoeek/test-nuxt/blob/master/image/2.png?raw=true)
+
+![Tela 3](https://github.com/leoeek/test-nuxt/blob/master/image/3.png?raw=true)
